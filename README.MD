@@ -10,6 +10,6 @@ Affine şifreleme algoritmasının Python dilinde hem şifrelenmesi hem de çöz
 ## 🛠️ Kurulum 
 
 ```bash
-git clone https://github.com/ErayKyuubi/Affine.git
+git clone https://github.com/eray-atalay/Affine.git
 
 python Affine.py
